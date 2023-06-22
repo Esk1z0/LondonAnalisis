@@ -1,0 +1,9 @@
+FROM: https://data.london.gov.uk/dataset/recorded_crime_summary
+https://data.london.gov.uk/dataset/dclg-affordable-housing-supply-borough
+https://www.homeviews.com/renting/average-rent-in-london-for-all-32-boroughs
+
+
+	MPS Borough Level Crime (most recent 24 months).csv
+	MPS Ward Level Crime (most recent 24 months).csv
+
+There are more references to be added in the future
